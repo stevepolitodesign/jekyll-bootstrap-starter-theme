@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Jekyll Bootstrap Starter Theme"
+description: "Example page demonstrating Bootstrap"
 ---
 
 ## You're ready to go!
