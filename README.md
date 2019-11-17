@@ -16,3 +16,6 @@ This theme makes no other assumptions other than you want to use Bootstrap and J
 
 - Bootstrap's Javascript dependencies are located in `assets/javascript/vendor`.
 
+## Layout
+
+- All pages will use the `default` layout. This is configured in `_config.yml`. 

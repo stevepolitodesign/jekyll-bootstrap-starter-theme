@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Jekyll Bootstrap Starter Theme"
 description: "Example page demonstrating Bootstrap"
 ---
